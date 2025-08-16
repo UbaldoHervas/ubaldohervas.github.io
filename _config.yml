@@ -1,6 +1,5 @@
 title: Ubaldo Hervás
-description: Experimentación Online
+description: Códigos y notas de experimentación online
 url: "https://ubaldohervas.github.io"
 baseurl: ""
-theme: jekyll-theme-cayman   # ← usa el tema integrado
-
+theme: jekyll-theme-cayman
